@@ -202,7 +202,7 @@ public class App {
                 System.out.println("la nota es: *****");
                 break;
         }
-        System.out.println("Evaluación y retroalimentación:\nInforma claramente los criterios de evaluación");
+        System.out.println(" C) Evaluación y retroalimentación:\nInforma claramente los criterios de evaluación");
         System.out.println("1 - *\n2 - **\n3 - ***\n4 - ****\n5 - *****");
         String opcion11 = sc.nextLine();    
         switch (opcion11) {
@@ -305,7 +305,7 @@ public class App {
         System.out.println("Es puntual y cumple con los horarios establecidos");
         System.out.println("1 - *\n2 - **\n3 - ***\n4 - ****\n5 - *****");
         String opcion16 = sc.nextLine();    
-        switch (opcion6) {
+        switch (opcion16) {
             case "1":
                 System.out.println("la nota es: *");
                 break;
